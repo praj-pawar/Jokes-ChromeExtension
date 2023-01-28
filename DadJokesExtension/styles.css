@@ -1,0 +1,15 @@
+body{
+    width: 250px;;
+    height: 100px;
+    background-color:rgb(252, 231, 242);
+    color:rgb(16, 11, 174);
+    justify-content: center;
+    display: flex;
+}
+
+p{
+    font-size: 22px;
+    margin: auto;
+    padding: 3px;
+    
+}
