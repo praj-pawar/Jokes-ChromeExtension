@@ -1,6 +1,6 @@
 {
     "name":"Dad Jokes",
-    "version":"0.0.1",
+    "version":"0.0.2",
     "description":"Your daily dose of dad jokes!",
     "manifest_version":2,
     "browser_action":
